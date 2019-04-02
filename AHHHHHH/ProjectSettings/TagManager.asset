@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Spheres
   - Walls
+  - Damage
+  - Heal
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
