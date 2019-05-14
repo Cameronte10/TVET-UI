@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Rotate : MonoBehaviour {
-
+public class Rotate : MonoBehaviour
+{
+    
 	// Use this for initialization
 	void Start () {
 		
